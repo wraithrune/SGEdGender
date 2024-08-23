@@ -1,4 +1,4 @@
-# SGEdGender
+# Singapore's Education Data (Gender)
 Singapore's Education Gender Analysis
 
 An analysis of Gender data associated with Singapore's Education Institutes Across the Years of 1982/1983 ++.
