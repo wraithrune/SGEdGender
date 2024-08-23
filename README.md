@@ -15,3 +15,5 @@ Kaggle
 This exploration is more on playing with the various Python chart libraries while lifting up certain obvious patterns in the datasets.
 
 Last Updated Aug 2024
+
+![Number of Male vs. Female Graduates Across Institutes Over the Years](2_Charts/2_DataViz4_graduates_plot.jpg)
