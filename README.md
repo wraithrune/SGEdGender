@@ -5,12 +5,12 @@ An analysis of Gender data associated with Singapore's Education Institutes Acro
 
 Dataset
 DataGov – SG
-1.	Enrolment by Institute: Data.gov.sg
-2.	Enrolment at Pre-University by Level and Course: Data.gov.sg
-3.	Graduates by Institute: Data.gov.sg
-4.	ITE Intake, Enrolment and Graduates by Course: Data.gov.sg
+1.	Enrolment by Institute: [Data.gov.sg](https://beta.data.gov.sg/datasets?topics=education&query=Labour+Force&resultId=452)
+2.	Enrolment at Pre-University by Level and Course: [https://www.data.gov.sg](https://beta.data.gov.sg/datasets?topics=education&query=jc&resultId=d_a27483941350c79947ebac7803df48d7)
+3.	Graduates by Institute: [Data.gov.sg](https://beta.data.gov.sg/datasets?topics=education&query=Labour+Force&resultId=452)
+4.	ITE Intake, Enrolment and Graduates by Course: [Data.gov.sg](https://beta.data.gov.sg/datasets?topics=education&query=Labour+Force&resultId=d_24b8751abfc87a4f054f61186c2fe1ba)
 Kaggle
-1.	Population by Country – 2020: https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020?resource=download 
+1.	Population by Country – 2020: [https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020?resource=download ](https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020?resource=download)
 
 This exploration is more on playing with the various Python chart libraries while lifting up certain obvious patterns in the datasets.
 
